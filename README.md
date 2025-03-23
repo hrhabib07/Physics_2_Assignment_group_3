@@ -3,13 +3,13 @@
 ## Group Details:
 - **Group Number**: 3
 - **Assignment**: Assignment #3
-- **Course**: Physics 2 (CSE 61 A+B)
+- **Course**: Physics 2 (CSE 61 A)
 - **Submission Format**: C++ Code
 - **Group Members**:
-- S.M. Mahidul Haque | 242-115-006
-- MD. Habibur Rahman | 242-115-019
-- A.K.M Shah Mahin | 242-115-033
-- MD. Mahtab Ahmed Mahin | 242-115-044
+   - S.M. Mahidul Haque | 242-115-006
+   - MD. Habibur Rahman | 242-115-019
+   - A.K.M Shah Mahin | 242-115-033
+   - MD. Mahtab Ahmed Mahin | 242-115-044
 
 ## Description:
 This assignment consists of two physics problems related to diffraction and interference.
@@ -30,13 +30,3 @@ This assignment consists of two physics problems related to diffraction and inte
 - The code takes user inputs, performs calculations using physics formulas, and outputs the results.
 - Proper validation for wavelength ranges was implemented.
 
-## Submission Instructions:
-- The C++ source code is uploaded to GitHub as per assignment requirements.
-- Please refer to the repository for the complete implementation.
-
-## Note:
-- Only one submission is required for the group.
-- The GitHub link to the repository is included in the submission.
-- Ensure the deadline is met, as late submissions will not be accepted.
-
-**For any queries, feel free to contact the instructor.**
